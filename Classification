@@ -1,0 +1,78 @@
+#Programming Projects (Require Coding and Technology Implementation)
+Central Cyber Security Agency (Problem 17):
+AI-driven solution for real-time cybersecurity threat detection.
+Technology: Machine learning, network traffic analysis, anomaly detection.
+Languages: Python, TensorFlow, or PyTorch for ML models.
+
+Gemini-Enhanced AI for Mental Health & Emotional Support (Problem 20):
+AI-powered chatbot for mental health support.
+Technology: Gemini API, natural language processing (NLP).
+Languages: Python, JavaScript for chatbot, and Gemini API integration.
+
+Central Cyber Security Agency (Problem 18):
+AI model for analyzing unstructured cybersecurity audit reports.
+Technology: NLP, AI chatbots.
+Languages: Python, NLP libraries like SpaCy, Hugging Face.
+
+AI-Powered Quality Control for Manufacturing (Problem 1):
+GenAI solution for automating quality control.
+Technology: Computer vision, real-time defect detection.
+Languages: Python, OpenCV, machine learning libraries.
+
+iSPIRT (Problem 2):
+GenAI-powered platform for credit access for MSMEs.
+Technology: Financial analytics, AI-powered credit assessment.
+Languages: Python, data integration libraries.
+
+People+ai (City AI Engine - Problem 3):
+GenAI-powered system for urban planning and management.
+Technology: Digital twin, AI decision-making, data visualization.
+Languages: Python, AI frameworks.
+
+People+ai (ConsumeWise - Problem 4):
+AI tool to enhance consumer product transparency.
+Technology: Data collection, NLP, AI-driven recommendations.
+Languages: Python, data verification systems.
+
+Blume Ventures (Problem 5):
+GenAI tool using the Socratic teaching method for Data Structures and Algorithms.
+Technology: AI chatbot with teaching capabilities.
+Languages: Python, AI chatbot frameworks.
+
+
+#Documentation-Only Projects (Require Solution Overview, No Coding)
+
+Akasa Air (Problem 7):
+Developing a frictionless airline journey.
+Document: Solution overview of improving customer experience and operational efficiency using AI and data.
+Create document in: Microsoft Word, Google Docs, or PDF.
+
+PolicyBazaar (Problem 8):
+Revolutionize insurance accessibility using AI.
+Document: Overview of an AI-powered humanoid agent for insurance guidance.
+Create document in: PDF or Word format.
+
+BigBasket (Problem 9):
+AI-powered banner and video generation for promotions.
+Document: Solution overview of AI-generated dynamic content.
+Create document in: PDF/Word document describing the proposed system.
+
+Croma (Problem 12):
+Optimizing retail operations and customer experience.
+Document: Solution overview for integrating AI into retail.
+Create document in: PDF/Word, with focus on AI integration.
+
+Network18 (Problem 13):
+Solution for video content credibility and detecting misinformation.
+Document: AI-driven methods for verifying video content.
+Create document in: PDF/Word document explaining the approach.
+
+Sarvam AI (Problem 14):
+Course creation copilot using AI.
+Document: Solution overview of AI tools for course creation.
+Create document in: Google Docs or PDF.
+
+Where to Create Documents:
+Google Docs: For easy sharing and collaboration. Convert to PDF for final submission.
+Microsoft Word: For offline writing. Export to PDF for submission.
+LaTeX: If you need a professional, technical document with 
